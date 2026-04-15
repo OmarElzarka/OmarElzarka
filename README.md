@@ -45,11 +45,18 @@ I follow modern software engineering practices including RESTful API design, gRP
 
 ---
 
-## 📊 GitHub Stats
+## YouTube Channel
+
+I run a YouTube channel called **Debugger Dude**, where I teach problem solving and core programming fundamentals.
+
+I work as a problem solving coach, helping students learn how to approach programming effectively, understand data structures and algorithms, and solve LeetCode problems with clear intuition rather than memorization.
+
+My teaching approach focuses on visual learning and animations to simplify complex topics and make problem solving more intuitive and practical.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true" height="180px"/>
+<a href="https://www.youtube.com/@DebuggerDude">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 </p>
 
 ---
