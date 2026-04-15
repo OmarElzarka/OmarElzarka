@@ -2,20 +2,18 @@
 <h3 align="center">Software & Ai Engineer | Asp.net Core & Angular | Cloud & DevOps | Agentic Ai & Deep Learning </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Developer%20(.NET);AI%20%7C%20Machine%20Learning%20Engineer;Cloud%20%7C%20Docker%20%7C%20CI%2FCD;Always%20learning%20and%20building&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20(.NET);AI%20%7C%20Machine%20Learning%20Engineer;Cloud%20%7C%20Docker%20%7C%20CI%2FCD;Always%20learning%20and%20building&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student (Engineering)
-- 💻 Backend Developer using **ASP.NET Core & C#**
-- ⚙️ Strong foundation in **C++ & Problem Solving**
-- 🌐 Experience in **Full Stack Development (Angular, React, JS, TS)**
-- ☁️ Interested in **Cloud, Docker, and CI/CD pipelines**
-- 🤖 Passionate about **AI, Deep Learning, NLP & Computer Vision**
-- 🎯 Goal: Becoming a world-class **Machine Learning Engineer**
+Software Engineer with experience building scalable systems and production-grade services. I work across the full stack, developing backend APIs using ASP.NET Core and C#, and building frontend applications with Angular, JavaScript, and TypeScript. I have a strong foundation in C++, problem-solving, and core computer science principles.
+
+I have hands-on experience designing and implementing APIs, working with relational databases such as SQL Server and MySQL, and improving system reliability and performance. I am familiar with cloud platforms, containerization using Docker, orchestration with Kubernetes, and CI/CD pipelines using tools like Jenkins and GitLab CI.
+
+I follow modern software engineering practices including RESTful API design, gRPC communication, version control with Git, and collaborative development using GitHub and GitLab. My focus is on writing clean, maintainable code and contributing effectively within team environments.
 
 ---
 
