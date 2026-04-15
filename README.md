@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Software Engineer with experience building scalable systems and production-grade services. I work across the full stack, developing backend APIs using ASP.NET Core and C#, and building frontend applications with Angular, JavaScript, and TypeScript. I have a strong foundation in C++, problem-solving, and core computer science principles.
+Software Engineer with experience building scalable systems and production-grade services. I work across the full stack, developing backend APIs using ASP.NET Core and C#, and building frontend applications with Angular, JavaScript, and TypeScript with a strong foundation in computer science fundamentals, including data structures and algorithms, object-oriented programming, operating systems, and computer networks. This is extended with software engineering principles such as object-oriented design, design patterns, and SOLID principles, along with experience in applied areas like artificial intelligence.
 
 I have hands-on experience designing and implementing APIs, working with relational databases such as SQL Server and MySQL, and improving system reliability and performance. I am familiar with cloud platforms, containerization using Docker, orchestration with Kubernetes, and CI/CD pipelines using tools like Jenkins and GitLab CI.
 
